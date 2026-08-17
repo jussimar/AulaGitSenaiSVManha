@@ -20,5 +20,7 @@ int main(){
 	cout <<"Vendedor: "<<nome<<endl;
 	cout <<"Comissao: R$ "<< comissao <<endl;
 	
+	cout << "teste";
+	
 	return 0;
 }
